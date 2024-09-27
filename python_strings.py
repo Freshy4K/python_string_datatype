@@ -61,7 +61,7 @@ print(f'{my_first_name} {my_last_name} is {age} year old')
 
 # TODO Escape characters
 #   - Print the following items (one per line) (print using variables)
-#       - possesive first name -birth year is- year of birth 
+#       - possessive first name -birth year is- year of birth 
 print(my_first_name + '"s birth year is ' + str(my_birth_year))
 print(my_first_name + '\'s birth year is ' + str(my_birth_year))
 #       - tab last name current year
