@@ -1,14 +1,14 @@
 # TODO Create Variables
 #   - Create the following variables
 #   - my_first_name
-my_first_name = 'Scott'
+my_first_name = "Sammir"
 
 #       -set this equal to your first name
 #   - my_last_name
-my_last_name = "Hadzik"
+my_last_name = "Oberhansley"
 #       -set this equal to your last name
 #   - my_year_of_birth
-my_birth_year = 1980
+my_birth_year = 2099
 #       -set this equal to your birth year (doesn't have to be real should be less then 100 yrs ago)
 #   - current_year
 current_year = 2024
@@ -26,11 +26,11 @@ print(my_last_name)
 #       - first letter of your first name (use the +index)
 print(my_first_name[0])
 #       - second letter of your last name (use the -index)
-print(my_last_name[-5])
+print(my_last_name[-10])
 #       - first two letter of your first name (use the +index)
 print(my_first_name[0:2])
 #       - second two letter of your last name (use the -index)
-print(my_last_name[-6:-4])
+print(my_last_name[-11:-9])
 
 print(my_first_name[2:])
 print(my_first_name[:3])
@@ -40,7 +40,7 @@ print(my_first_name[:3])
 #TODO Combining Strings
 #   - Print the following items (one per line) (print using variables)
 #       -first name and last name combined
-print(my_first_name + ' ' +my_last_name)
+print(my_first_name + + ' ' my_last_name)
 #       -first name six times
 print(my_first_name*6)
 
